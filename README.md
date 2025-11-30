@@ -45,18 +45,18 @@ Actualmente enfocándome en fortalecer mis habilidades backend y en bases de dat
 - Procesos relacionados con ingeniería de pozos  
 
 ---
+### 📊 GitHub Stats
 
-## 📊 My Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niicko12&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niicko12&theme=solarized_dark&utcOffset=8)
 
-<div align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niicko12&theme=solarized_dark)
 
-### 🔥 GitHub Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=Niicko12&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 🔥 Streak Stats
+![](https://streak-stats.demolab.com/?user=Niicko12&theme=solarized-dark&hide_border=true)
 
-### 🎨 Programming Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niicko12&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+### 🎨 Most Used Languages
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niicko12&theme=solarized_dark)
 
 ---
 
