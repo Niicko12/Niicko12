@@ -42,8 +42,7 @@ Actualmente enfocándome en fortalecer mis habilidades backend y en bases de dat
 
 🔧 Pronto estaré publicando proyectos en:  
 - Python  
-- Django  
-- Automatización  
+- Django   
 - Procesos relacionados con ingeniería de pozos  
 
 ---
