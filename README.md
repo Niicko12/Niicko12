@@ -35,16 +35,6 @@ HI👋 ¡Hola! Soy Limber Magaña, Ingeniero Petrolero y Desarrollador de Softwa
 </p>
 
 
----
-
-## 📂 Proyectos
-
-🔧 Pronto estaré publicando proyectos en:  
-- Python  
-- Django   
-- Procesos relacionados con ingeniería de pozos  
-
----
 ### 📊 GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niicko12&theme=solarized_dark)
