@@ -1,6 +1,6 @@
 <h2 align="center">👋 ¡Hola! Soy Limber Magaña</h2>
 
-Ingeniero Petrolero con más de 5 años de experiencia en supervisión de datos críticos para PEMEX. Recientemente, complementé mi perfil con una Licenciatura en Desarrollo de Software, buscando aplicar mis habilidades en resolución de problemas y mi sólida ética de trabajo en el mundo tech.
+HI👋 ¡Hola! Soy Limber Magaña, Ingeniero Petrolero y Desarrollador de Software. Me apasiona la tecnología, disfruto aprender cosas nuevas
 
 ---
 
