@@ -1,7 +1,6 @@
 <h2 align="center">👋 ¡Hola! Soy Limber Magaña</h2>
 
-Ingeniero Petrolero con formación en **Desarrollo de Software**, apasionado por crear soluciones con **Python, Django y desarrollo web**.  
-Actualmente enfocándome en fortalecer mis habilidades backend y en bases de datos.
+Ingeniero Petrolero con más de 5 años de experiencia en supervisión de datos críticos para PEMEX. Recientemente, complementé mi perfil con una Licenciatura en Desarrollo de Software, buscando aplicar mis habilidades en resolución de problemas y mi sólida ética de trabajo en el mundo tech.
 
 ---
 
