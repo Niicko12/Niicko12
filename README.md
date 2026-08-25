@@ -65,7 +65,8 @@ Combino ingeniería de procesos con desarrollo de software para construir produc
 ![](https://streak-stats.demolab.com/?user=Niicko12&theme=solarized-dark&hide_border=true)
 
 ### 🎨 Lenguajes más usados
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niicko12&layout=compact&theme=solarized-dark&hide_border=true&langs_count=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niicko12&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niicko12&theme=solarized_dark)
 
 ---
 
