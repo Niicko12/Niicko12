@@ -5,7 +5,7 @@
 
 ## 👤 Sobre mí
 
-Soy Ingeniero Petrolero e Ingeniero de Software. Combino mi experiencia en ingeniería con el desarrollo de software para crear soluciones prácticas y funcionales, con interés en construir productos bien estructurados y fáciles de usar.
+Combino ingeniería de procesos con desarrollo de software para construir productos reales — desde e-commerce hasta sistemas de gestión. Me enfoco en soluciones funcionales, limpias y orientadas al usuario.
 
 - 📍 **Ubicación:** México 🇲🇽
 - ✉️ **Email:** limbernicko@gmail.com
@@ -37,6 +37,20 @@ Soy Ingeniero Petrolero e Ingeniero de Software. Combino mi experiencia en ingen
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mercado_Pago-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| ☕ **Cafecito Andante** | Tienda online para coffee bar móvil — catálogo personalizable, pagos con Mercado Pago, SPEI y WhatsApp | Next.js · React · TypeScript · Tailwind |
+| 📦 **[Master Inventario](https://github.com/Niicko12/Master-Inventario)** | Sistema de inventario, ventas, compras y reportes | PHP 8.3 · MySQL · Bootstrap 5 |
+| 🛢️ **Control de Pozos** | Gestión y monitoreo de pozos petroleros | Python |
+| 🎙️ **[Grabadora de Audio](https://github.com/Niicko12/grabadora-audio)** | Herramienta de grabación y reproducción con GUI | Python · Tkinter |
+| 📚 **[Roadmap Programación](https://github.com/Niicko12/roadmap-retos-programacion)** | Ejercicios de lógica siguiendo la ruta MoureDev | Python |
 
 ---
 
@@ -51,7 +65,7 @@ Soy Ingeniero Petrolero e Ingeniero de Software. Combino mi experiencia en ingen
 ![](https://streak-stats.demolab.com/?user=Niicko12&theme=solarized-dark&hide_border=true)
 
 ### 🎨 Lenguajes más usados
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niicko12&theme=solarized_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niicko12&layout=compact&theme=solarized-dark&hide_border=true&langs_count=8)
 
 ---
 
