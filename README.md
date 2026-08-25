@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hola, soy Limber Magaña</h2>
-<p align="center">Full-Stack Developer · Ing. Petrolero · México 🇲🇽</p>
+<p align="center">Full-Stack Developer · Ing. Software/Petrolero · México 🇲🇽</p>
 
 ---
 
