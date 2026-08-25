@@ -54,7 +54,7 @@ Soy Ingeniero Petrolero e Ingeniero de Software. Combino mi experiencia en ingen
 
 ### 🎨 Lenguajes más usados
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niicko12&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niicko12&theme=solarized_dark)
+
 
 ---
 
